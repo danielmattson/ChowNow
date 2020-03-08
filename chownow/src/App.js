@@ -4,7 +4,10 @@ import './App.css';
 
 function App() {
   return (
-    <Finder />
+    <div>
+      <h1>Chow Now</h1>
+      <Finder />
+    </div>
   );
 }
 
